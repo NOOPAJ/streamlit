@@ -81,3 +81,6 @@ def main():
     if st.button("About"):
         st.text("AI powered App")
         st.text("Built with Streamlit")
+
+if __name__=='__main__':
+    main()
